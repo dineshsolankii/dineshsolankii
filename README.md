@@ -43,12 +43,20 @@ I am a dedicated **AI/ML Engineer** with a passion for building intelligent, sca
 
 ---
 
-## 🔗 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/dinesh-d-/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Dinesh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dinesh's LinkedIn" /></a>
-  <a href="https://github.com/dineshsolankii" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-Dinesh-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Dinesh's GitHub" /></a>
-  <a href="https://www.dineshsolanki.in" target="blank"><img align="center" src="https://img.shields.io/badge/Website-Dinesh-green?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Dinesh's Website" /></a>
-  <a href="https://medium.com/@dineshsolanki2799" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-Dinesh-black?style=for-the-badge&logo=medium&logoColor=white" alt="Dinesh's Medium" /></a>
+<h2>🔗 Connect with Me:</h2>
+<p>
+    <a target="_blank" href="https://www.linkedin.com/in/dinesh-d-/" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" />
+    </a>
+    <a target="_blank" href="https://medium.com/@dineshsolanki2799" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="Medium" />
+    </a>
+    <a target="_blank" href="https://www.dineshsolanki.in" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/portfolio-logo?style=for-the-badge&logo=portfolio&logoColor=white&color=orange" alt="Portfolio" />
+    </a>
+    <a target="_blank" href="https://github.com/dineshsolankii" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/github-logo?style=for-the-badge&logo=github&logoColor=white&color=black" alt="GitHub" />
+    </a>
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/dineshsolankii/dineshsolankii/output/github-contribution-grid-snake-dark.svg)
