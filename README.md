@@ -27,8 +27,8 @@ I am a dedicated **AI/ML Engineer** with a passion for building intelligent, sca
 
 ## 📊 GitHub Stats:
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshsolankii&show_icons=true&locale=en" alt="dineshsolankii" width="300" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsolankii&" alt="dineshsolankii" width="300" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dineshsolankii&show_icons=true&locale=en" alt="dineshsolankii" width="400" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsolankii&" alt="dineshsolankii" width="400" height="200" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshsolankii&show_icons=true&locale=en&layout=compact" alt="dineshsolankii" />
