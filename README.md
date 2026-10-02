@@ -19,7 +19,7 @@ Samsung R&D — ₹3L prize winner + Excellence Award of the Year.
 
 - 🏢 **Current:** AI Specialist @ Trilliant Digital, Bengaluru
 - 📄 **Published:** Springer SmartCom 2025 — Generative AI for Video Summarization
-- 🏆 **Awards:** Samsung R&D Excellence Award · ₹3 Lakh Prize
+- 🏆 **Awards:** Samsung R&D Excellence Award · Cash Prize
 - 🎓 **B.E. in AI/ML** — Cambridge Institute of Technology, Bangalore (2021–2025)
 - ✍️ **Writing:** [medium.com/@dineshsolanki2799](https://medium.com/@dineshsolanki2799)
 - 🌐 **Portfolio:** [dineshsolanki.in](https://www.dineshsolanki.in)
