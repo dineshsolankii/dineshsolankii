@@ -92,7 +92,7 @@ Samsung R&D — Cash prize winner + Excellence Award of the Year.
 | Decision time reduced (analytics) | 80% |
 | Transcript generation time saved | 92% |
 | Springer publication | SmartCom 2025 |
-| Samsung R&D prize | ₹3,00,000 |
+| Samsung R&D prize | Cash Prize |
 
 ---
 
