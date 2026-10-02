@@ -14,7 +14,7 @@
 AI Specialist with 3+ years building production-grade AI systems.
 Published at Springer SmartCom 2025 on generative AI for video summarization.
 Systems I've built handle 50K+ daily requests in live production environments.
-Samsung R&D — ₹3L prize winner + Excellence Award of the Year.
+Samsung R&D — Cash prize winner + Excellence Award of the Year.
 ```
 
 - 🏢 **Current:** AI Specialist @ Trilliant Digital, Bengaluru
